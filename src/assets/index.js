@@ -50,7 +50,7 @@ import leetcode from "./leetcode.png";
 import linkedin from "./linkedin.png";
 import twitter from "./twitter.png";
 import girvi from "./girvi.png";
-import FullStack from "./FullStack-CRUD(2).png";
+import FullStack from "./fullstack-crud.png";
 import giphy from "./giphyClone.png";
 import expenseTracker from "./expenseTracker.png";
 import ems from "./ems.png";
