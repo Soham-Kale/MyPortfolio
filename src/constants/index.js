@@ -281,7 +281,7 @@ const experiences = [{
         company_name: "Code Implants",
         icon: codeImplants,
         iconBg: "#383E56",
-        date: "July 2024 - Present",
+        date: "Jan 2025 - April 2025",
         points: [
             "Created responsive and interactive user interfaces using React, TailwindCSS, and various libraries such as React-router and React-toastify, enhancing user engagement and experience",            
             "Leveraged Axios for seamless API communication and integrated backend services for functionalities such as user authentication, data retrieval, and form handling, ensuring robust and efficient data flow",          
